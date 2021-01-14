@@ -11,7 +11,7 @@ project delves into the determinants of mental health attitudes among
 English speaking tech employees across the world.
 
 Project data cleaning steps are reviewed in depth in my Medium article
-“Data Cleaning in R Made Simple” found [HERE](xxx).
+“Data Cleaning in R Made Simple” found [HERE](https://towardsdatascience.com/data-cleaning-in-r-made-simple-1b77303b0b17).
 
 Project caret modeling steps are also reviewed in depth in my Medium
 article “To Caret or to TidyModel?” found [HERE](xxx), throughout which
